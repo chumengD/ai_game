@@ -29,5 +29,5 @@ CG 的生成流程是先人工提供画风参考，然后使用 **Codex** 生成
 
 
 这个分支只是为了测试webhook在pr操作会发出什么信息
-
+我这下要试试pull_request_review的webhook了
 
